@@ -10,12 +10,12 @@
     npm install
     node listen.js
 ```
-
-#Source Links
-
-    * https://www.stellar.org/developers/horizon/reference/tutorials/follow-received-payments.html 
-    * https://www.stellar.org/laboratory/#account-creator?network=test
-    
+ 
 ## Donate
 ### Please donate to help share more scripts.
     GBE6NAUGGZ7YOFZOKQBPKXSPINTR6A5TIJ3GILZ2EHMOAUHLM7PCOJXL
+    
+## Source Links
+
+  * https://www.stellar.org/developers/horizon/reference/tutorials/follow-received-payments.html 
+  * https://www.stellar.org/laboratory/#account-creator?network=test
