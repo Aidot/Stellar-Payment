@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "eventsource": "^1.0.5",
+    "fs": "0.0.1-security",
+    "request": "^2.86.0"
+  },
+  "name": "stellar-notify",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Stellar",
+    "XLM",
+    "Payment"
+  ],
+  "author": "mgit",
+  "license": "WTFPL",
+  "description": ""
+}
