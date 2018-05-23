@@ -1,8 +1,8 @@
 # Stellar Lumens (XLM) Payment Script
 
 ## Web
-
-		config your databse information: /Web/include/connect.php
+### Config your databse information:
+    /Web/include/connect.php
 	
 ## Node-server
 
@@ -17,5 +17,5 @@
     * https://www.stellar.org/laboratory/#account-creator?network=test
     
 ## Donate
-### Please donate to help create more tools for the Stellar platform.
+### Please donate to help share more scripts.
     GBE6NAUGGZ7YOFZOKQBPKXSPINTR6A5TIJ3GILZ2EHMOAUHLM7PCOJXL
