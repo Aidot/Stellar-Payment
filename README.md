@@ -1,10 +1,11 @@
 # Stellar Lumens (XLM) Payment Script
 
-## Web
-### Config your databse information:
-    /Web/include/connect.php
+## Install 
+### Web
+    * Import /Database/invoices.sql to your MYSQL database
+    * Config your databse information: /Web/include/connect.php
 	
-## Node-server
+### Node-server
 
 ```javascript
     npm install
