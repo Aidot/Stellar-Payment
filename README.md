@@ -1,5 +1,7 @@
 # Stellar Lumens (XLM) Payment Script
 
+![screenshot](https://github.com/Aidot/Stellar-Payment/blob/master/screenshot.jpg?raw=true)
+
 ## Install 
 ### Web
     * Import /Database/invoices.sql to your MYSQL database
